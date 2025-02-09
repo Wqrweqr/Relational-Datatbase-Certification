@@ -20,4 +20,5 @@ This repository contains links to all my projects:
 - [Build a Castle](https://github.com/wqrweqr/Build-a-Castle)
 - [Building a Kitty Ipsum Translator](https://github.com/wqrweqr/Building-a-Kitty-Ipsum-Translator)
 
-
+## Certification
+https://www.freecodecamp.org/certification/wqrweqr/relational-database-v8
